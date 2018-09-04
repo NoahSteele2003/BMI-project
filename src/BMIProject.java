@@ -8,7 +8,6 @@ public class BMIProject {
         keyboard = new Scanner(System.in);
         //BMI = kg/m^2
         // 1lb = .453592kg
-        //BMI
 
         int feet,inches,inchesTotal,pounds;
         double meters, kilograms, BMI;
