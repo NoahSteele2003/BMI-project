@@ -20,7 +20,7 @@ public class BMIProject {
         inchesTotal = (inches +(feet*12));
         meters =(inchesTotal*.0254);
 
-        System.out.println("How many pounds are you?");
+        System.out.println("How many pounds do you weigh?");
         pounds = keyboard.nextInt();
 
         kilograms = (pounds*.453592);
